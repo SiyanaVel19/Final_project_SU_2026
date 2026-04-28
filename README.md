@@ -31,13 +31,12 @@ The project uses `Seaborn` and `Matplotlib` to visualize:
 ##  How to Run
 1.  You must have Python v.3.8+ installed.
 2.  Install folder: [Google Drive folder - Data Science: Housing Project (Март 2026)](https://drive.google.com/drive/folders/1-b3SyHcprsfVOlxq0zvNDoo5awYRsDSs?usp=drive_link)
-   IF  for some reason there is a problem with opening the link, I have left the folder in github
-4.  Install required libraries:
+3.    Install required libraries:
     ```bash
     pip install pandas numpy matplotlib seaborn scipy
     ```
-5.  Open `Project_housing_2.ipynb` in Jupyter Notebook or VS Code.
-6.  Run all cells to replicate the analysis.
+4.  Open `Project_housing_2.ipynb` in Jupyter Notebook or VS Code.
+5.  Run all cells to replicate the analysis.
 
 ##  Project Structure
 * `Project_housing_2.ipynb`: The analysis notebook containing code, math, and commentary.
@@ -46,3 +45,5 @@ The project uses `Seaborn` and `Matplotlib` to visualize:
 
 ##  Context
 Final Exam Project for the SoftUni Data Science Course (March 2026).
+## Contact
+For any issues with opening the drive or running the project contact me : siyanaveleva19@gmail.com 
