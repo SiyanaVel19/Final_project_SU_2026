@@ -31,7 +31,7 @@ The project uses `Seaborn` and `Matplotlib` to visualize:
 ##  How to Run
 1.  You must have Python v.3.8+ installed.
 2.  Install folder: [Google Drive folder - Data Science: Housing Project (Март 2026)](https://drive.google.com/drive/folders/1-b3SyHcprsfVOlxq0zvNDoo5awYRsDSs?usp=drive_link); If for some reason there is a problem with opening the link, I have left the folder in github
-3.Install required libraries:
+3.  Install required libraries:
     ```bash
     pip install pandas numpy matplotlib seaborn scipy
     ```
